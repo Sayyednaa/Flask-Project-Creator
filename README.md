@@ -4,9 +4,13 @@
 
 > A Flask Project Creator GUI Application Written in Python 
 
-## Code Samples
+## Requirements:-
+ Python3,
+ PyQt5
 
-Requirements:- PyQt5
+
+ 
+
 
 ## Installation
 
